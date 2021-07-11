@@ -40,7 +40,7 @@ const App= ()=> {
     
       </div>
       <div className="footer">
-        <p>Aubichil Intelligent Technologies. 2021</p>
+        <p>Aubichol Intelligent Technologies. 2021</p>
       </div>
     </div>
   </div>
